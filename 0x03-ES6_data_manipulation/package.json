@@ -1,0 +1,18 @@
+{
+  "name": "0x03-es6_data_manipulation",
+  "version": "1.0.0",
+  "description": "0x03. ES6 data manipulation",
+  "main": "0-get_list_students.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bukolaeg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "alx-frontend-javascript"
+  }
+}
